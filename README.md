@@ -1,4 +1,4 @@
-# Parallel-Q-Learning
+# Pre-Q-Learning
 오강자 강화학습 프로젝트 Parallel-Q Learning 레포
 
 ## 알고리즘 플로우차트

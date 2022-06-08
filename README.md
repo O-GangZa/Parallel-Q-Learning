@@ -1,10 +1,10 @@
 # Pre-Q-Learning
-data/factory_order_test.csv : test 데이터
-data/factory_order_train.csv : train 데이터
-data/obstacles.csv : 장애물 위치 좌표
-data/Q_finder.csv : 수렴시킬 테이블 아이템 목록 (agent 이름)
-data/box_PQ.csv : 목전지 좌표
-result_gif : PQ 결과물 디렉토리
+data/factory_order_test.csv : test 데이터  
+data/factory_order_train.csv : train 데이터  
+data/obstacles.csv : 장애물 위치 좌표  
+data/Q_finder.csv : 수렴시킬 테이블 아이템 목록 (agent 이름)  
+data/box_PQ.csv : 목전지 좌표  
+result_gif : PQ 결과물 디렉토리  
 Parallel_Q_Learning.ipynb : PQ 알고리즘의 실행 노트북 파일
 
 
